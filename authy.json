@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Twitch",
+        "secret": "4DLWFL3LA6JHJWAF6M6OR547CM",
+        "uri": "otpauth://totp/Twitch?secret=4DLWFL3LA6JHJWAF6M6OR547CM&digits=7&period=10"
+    },
+    {
+        "name": "Termius",
+        "secret": "ZVPUBBXGLGHDPB56MIO5D5SVIU",
+        "uri": "otpauth://totp/Termius?secret=ZVPUBBXGLGHDPB56MIO5D5SVIU&digits=7&period=10"
+    },
+    {
+        "name": "Google: Finn Fortik",
+        "secret": "po5lusqdcyjlnbbunc4b3gmpvzpm66gw",
+        "uri": "otpauth://totp/Google%3A%20Finn%20Fortik?secret=po5lusqdcyjlnbbunc4b3gmpvzpm66gw&digits=6&period=30"
+    },
+    {
+        "name": "Discord: Evito",
+        "secret": "GYVZJHDDSA73IDJ4",
+        "uri": "otpauth://totp/Discord%3A%20Evito?secret=GYVZJHDDSA73IDJ4&digits=6&period=30"
+    },
+    {
+        "name": "Discord: Evitos",
+        "secret": "XFWCF564CXS5QF3K",
+        "uri": "otpauth://totp/Discord%3A%20Evitos?secret=XFWCF564CXS5QF3K&digits=6&period=30"
+    },
+    {
+        "name": "Twitter",
+        "secret": "RADQ2XXNWQ4Y6P7O",
+        "uri": "otpauth://totp/Twitter?secret=RADQ2XXNWQ4Y6P7O&digits=6&period=30"
+    },
+    {
+        "name": "Nintendo",
+        "secret": "JZTFM33QGZNHI5KIPJGU2MJROBZUEULN",
+        "uri": "otpauth://totp/Nintendo?secret=JZTFM33QGZNHI5KIPJGU2MJROBZUEULN&digits=6&period=30"
+    },
+    {
+        "name": "GitHub",
+        "secret": "g5ep3zzsua4ke65f",
+        "uri": "otpauth://totp/GitHub?secret=g5ep3zzsua4ke65f&digits=6&period=30"
+    },
+    {
+        "name": "Ubisoft",
+        "secret": "gfye6m2sonfvozsi",
+        "uri": "otpauth://totp/Ubisoft?secret=gfye6m2sonfvozsi&digits=6&period=30"
+    },
+    {
+        "name": "Google: Evitonative",
+        "secret": "vsy3uae7bolpdtslltx4ny6ejxjpk42n",
+        "uri": "otpauth://totp/Google%3A%20Evitonative?secret=vsy3uae7bolpdtslltx4ny6ejxjpk42n&digits=6&period=30"
+    },
+    {
+        "name": "Trello: trello.com/evitonative",
+        "secret": "MMZTINLBGQ4DSMDEGUYGGZBQGNQTQYTE",
+        "uri": "otpauth://totp/Trello%3A%20trello.com%2Fevitonative?secret=MMZTINLBGQ4DSMDEGUYGGZBQGNQTQYTE&digits=6&period=30"
+    },
+    {
+        "name": "Parsec: evitonative@gmail.com",
+        "secret": "A5UTYYSLXQZQMBIT",
+        "uri": "otpauth://totp/Parsec%3A%20evitonative%40gmail.com?secret=A5UTYYSLXQZQMBIT&digits=6&period=30"
+    },
+    {
+        "name": "Gitlab",
+        "secret": "wsy6efii2lg3nvue6gcy5apop3xfs2xo",
+        "uri": "otpauth://totp/Gitlab?secret=wsy6efii2lg3nvue6gcy5apop3xfs2xo&digits=6&period=30"
+    },
+    {
+        "name": "Airtable evitonative@gmail.com",
+        "secret": "GFYTI4LUNY2TQ2TPGIZWOMDDOBZWENDTNI4XAZTSMF3HS6BROZZA",
+        "uri": "otpauth://totp/Airtable%20evitonative%40gmail.com?secret=GFYTI4LUNY2TQ2TPGIZWOMDDOBZWENDTNI4XAZTSMF3HS6BROZZA&digits=6&period=30"
+    },
+    {
+        "name": "Unity",
+        "secret": "3467OD2H2BJ4EH4J",
+        "uri": "otpauth://totp/Unity?secret=3467OD2H2BJ4EH4J&digits=6&period=30"
+    },
+    {
+        "name": "Mozilla Firefox",
+        "secret": "JBHUKTBZFM2GCL3JIRYUQNSVMRUDQZCK",
+        "uri": "otpauth://totp/Mozilla%20Firefox?secret=JBHUKTBZFM2GCL3JIRYUQNSVMRUDQZCK&digits=6&period=30"
+    },
+    {
+        "name": "JetBrains",
+        "secret": "H7EAJIZ5KJ47DVAZ",
+        "uri": "otpauth://totp/JetBrains?secret=H7EAJIZ5KJ47DVAZ&digits=6&period=30"
+    },
+    {
+        "name": "Evitonative@itch.io",
+        "secret": "6VN7AKMDI4JMYKMG",
+        "uri": "otpauth://totp/Evitonative%40itch.io?secret=6VN7AKMDI4JMYKMG&digits=6&period=30"
+    },
+    {
+        "name": "Namecheap",
+        "secret": "AYBOKRS7BYM2VAVULAIGFDNPTJ6LPS4V",
+        "uri": "otpauth://totp/Namecheap?secret=AYBOKRS7BYM2VAVULAIGFDNPTJ6LPS4V&digits=6&period=30"
+    },
+    {
+        "name": "MC-HOST24: evitonative@gmail.com",
+        "secret": "T6ZCOM3OWNQLSXBQ",
+        "uri": "otpauth://totp/MC-HOST24%3A%20evitonative%40gmail.com?secret=T6ZCOM3OWNQLSXBQ&digits=6&period=30"
+    },
+    {
+        "name": "Electronic Arts: evitonative@gmail.com",
+        "secret": "BFMQCAW6SGCN53CF",
+        "uri": "otpauth://totp/Electronic%20Arts%3A%20evitonative%40gmail.com?secret=BFMQCAW6SGCN53CF&digits=6&period=30"
+    },
+    {
+        "name": "Electronic Arts: finn.fortik@gmail.com",
+        "secret": "P7XTAQBHLEOWPHC6",
+        "uri": "otpauth://totp/Electronic%20Arts%3A%20finn.fortik%40gmail.com?secret=P7XTAQBHLEOWPHC6&digits=6&period=30"
+    },
+    {
+        "name": "Epic Games",
+        "secret": "JZIEYQKGIY2UQTKXLA3FIQRXKNEU2QKPIYZEKN2UGUZVEUSXGRKA",
+        "uri": "otpauth://totp/Epic%20Games?secret=JZIEYQKGIY2UQTKXLA3FIQRXKNEU2QKPIYZEKN2UGUZVEUSXGRKA&digits=6&period=30"
+    },
+    {
+        "name": "Noez",
+        "secret": "3ILGD7ZO263RQNXX",
+        "uri": "otpauth://totp/Noez?secret=3ILGD7ZO263RQNXX&digits=6&period=30"
+    },
+    {
+        "name": "AEL Staff",
+        "secret": "KY2O5WLAL7CFO6FI",
+        "uri": "otpauth://totp/AEL%20Staff?secret=KY2O5WLAL7CFO6FI&digits=6&period=30"
+    },
+    {
+        "name": "evitonative@gmail.com",
+        "secret": "gqygphtejidympse",
+        "uri": "otpauth://totp/evitonative%40gmail.com?secret=gqygphtejidympse&digits=6&period=30"
+    }
+]
